@@ -18,4 +18,4 @@
 - If User wishes to see a specific student's data he can search that student by it's name.
 - If a student no longer is present in school User can delete the data by searching the data of the student.
 - We can add as many features as we want like father's name, hometown etc. just by some little changes in code.
-- Whole idea behind this project is to bring evrything learned about C programming in practice.
+- Whole idea behind this project is to bring everything learned about C programming in practice.
