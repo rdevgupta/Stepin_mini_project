@@ -1,0 +1,27 @@
+# comments added by hash operator
+
+# below is the syntax for adding makefile commands
+
+# Target : Dependencies
+#<1 TAB SPACE>Command
+
+PROJECT_NAME = SDBMS.exe
+
+SRC = main.c\
+src\add.c\
+src\modify.c\
+src\view.c\
+src\search.c\
+src\delete.c\
+src\gotoxy.c
+
+INC = inc
+
+$(PROJECT_NAME): $(SRC)
+	gcc -I $(INC) $(SRC) -o SDBMS.exe
+	
+run: $(PROJECT_NAME)
+	$(PROJECT_NAME)
+	
+clean:
+	del /q *.exe

@@ -19,6 +19,13 @@
 #ifndef __HEADER_H__
 #define __HEADER_H__
 
+
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<windows.h>
+#include<string.h>
+
 /**
  * @brief gotoxy function is used to place cursor at a desired location.
  * It accepts two args as x and y coordinate of the location.
