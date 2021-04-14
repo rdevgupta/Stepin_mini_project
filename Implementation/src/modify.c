@@ -22,7 +22,7 @@ void modify()
     fflush(stdin);
     while(fread(&std,sizeof(std),1,fp) == 1)
     {
-        if(strcmp(std.name,std.name) == 0){
+        if(strcmp(stname,std.name) == 0){
             gotoxy(10,7);
             printf("Enter name: ");
             gets(std.name);

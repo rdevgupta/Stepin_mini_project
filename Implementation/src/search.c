@@ -19,7 +19,7 @@ void search()
         exit(1);
     }
     while(fread(&std,sizeof(std),1,fp ) == 1){
-        if(strcmp(std.name,std.name) == 0){
+        if(strcmp(stname,std.name) == 0){
             gotoxy(10,8);
             printf("Name : %s",std.name);
             gotoxy(10,9);
