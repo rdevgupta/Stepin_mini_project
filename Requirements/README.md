@@ -37,7 +37,7 @@
 - **Low Level Requirements**
 
 | ID | Description | STATUS | High Level ID |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | L01 | To show a menu of different operations where user can select a particular operation like add, modify or view etc. | Completed | H01 |
 | L02 | To add data of a student by providing his details like name, phone number and roll no. etc. | Completed | H02 |
 | L03 | To search data of a student by entering his/her name. | Completed | H03 |
