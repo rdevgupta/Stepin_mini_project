@@ -22,12 +22,26 @@
 
 ## Detail Requirements
 
+- **High Level Requirements**
+
 | ID | Description | STATUS |
 | --- | --- | --- |
-| H1 | To show a menu of different operations | Completed |
-| H2 | To add data of a student | Completed |
-| H3 | To search data of a student | Completed |
-| H4 | To modify data of a student | Completed |
-| H5 | To view data of all students | Completed |
-| H6 | To delete data of a student | Completed |
-| H7 | To exit from the system to terminal | Completed |
+| H01 | To show a menu of different operations | Completed |
+| H02 | To add data of a student | Completed |
+| H03 | To search data of a student | Completed |
+| H04 | To modify data of a student | Completed |
+| H05 | To view data of all students | Completed |
+| H06 | To delete data of a student | Completed |
+| H07 | To exit from the system to terminal | Completed |
+
+- **Low Level Requirements**
+
+| ID | Description | STATUS | High Level ID |
+| --- | --- | --- |
+| L01 | To show a menu of different operations where user can select a particular operation like add, modify or view etc. | Completed | H01 |
+| L02 | To add data of a student by providing his details like name, phone number and roll no. etc. | Completed | H02 |
+| L03 | To search data of a student by entering his/her name. | Completed | H03 |
+| L04 | To modify data of a student by searching through his/her name and then repeat add operation. | Completed | H04 |
+| L05 | To view data of all students present in the database file in a tabular form. | Completed | H05 |
+| L06 | To delete data of a student by searching it through his/her name. | Completed | H06 |
+| L07 | To exit from the system to terminal in case user has completed all the work now wish to exit from the system or menu. | Completed | H07 |
