@@ -19,3 +19,15 @@
 - If a student no longer is present in school User can delete the data by searching the data of the student.
 - We can add as many features as we want like father's name, hometown etc. just by some little changes in code.
 - Whole idea behind this project is to bring everything learned about C programming in practice.
+
+## Detail Requirements
+
+| ID | Description | STATUS |
+| --- | --- | --- |
+| H1 | To show a menu of different operations | Completed |
+| H2 | To add data of a student | Completed |
+| H3 | To search data of a student | Completed |
+| H4 | To modify data of a student | Completed |
+| H5 | To view data of all students | Completed |
+| H6 | To delete data of a student | Completed |
+| H7 | To exit from the system to terminal | Completed |
