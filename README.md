@@ -1,4 +1,5 @@
 [![C/C++ CI](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/c-cpp.yml/badge.svg?branch=master)](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/c-cpp.yml) 
+[![Static Code Quality- Cppcheck](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/cpp-check.yml) 
 
 # Stepin_mini_project
 - Student management system using c language for mini project requirement of stepin program.
