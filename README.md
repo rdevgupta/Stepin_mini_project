@@ -1,3 +1,5 @@
+[![C/C++ CI](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/c-cpp.yml/badge.svg?branch=master)](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/c-cpp.yml) 
+
 # Stepin_mini_project
 - Student management system using c language for mini project requirement of stepin program.
 - C language will be the primary language for this project
