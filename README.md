@@ -2,6 +2,13 @@
 [![Static Code Quality- Cppcheck](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/cpp-check.yml) 
 [![Contribution Check - Git Inspector](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/rdevgupta/Stepin_mini_project/actions/workflows/gitinspector.yml) 
 
+# Folder Structure
+| FOLDER | DESCRIPTION |
+| --- | --- |
+| Designing | diagrams related to project |
+| Implementation | source code, makefile, multifile approach |
+| Requirements | Description of the project and high, low level requirements | 
+ 
 # Stepin_mini_project
 - Student management system using c language for mini project requirement of stepin program.
 - C language will be the primary language for this project
